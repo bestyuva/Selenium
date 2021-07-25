@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name= "Automatio Test">
+<suite name= "Automation Test">
     <test name="Smoke Testcases">
     <packages>
        <package name="testngFiles" />
